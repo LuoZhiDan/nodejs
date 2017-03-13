@@ -8,4 +8,4 @@ http.createServer(function(request, response){
     response.end('hello world!');
 }).listen(8888);
 
-console.log('server running!');
+console.log('server running!  98888');
